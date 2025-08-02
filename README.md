@@ -11,3 +11,5 @@ sys.platform()
 import os
 os.cwd()
 '''
+
+mutable vs immutable
