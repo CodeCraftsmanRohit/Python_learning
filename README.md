@@ -29,3 +29,12 @@ Use Case	When you need to modify data	When data should not change
 Methods Available	Many (e.g., append, remove)	Few (count, index)
 Hashable (can be dict keys)	❌ No	✅ Yes (if all elements are hashable)
 Memory Usage	Typically more memory	Less memory than l
+
+
+import copy
+copy.copy
+copy.deepcopy
+
+m==n
+
+m is n
