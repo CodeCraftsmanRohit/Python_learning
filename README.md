@@ -105,3 +105,15 @@ chai="he said, \" chai is good\" "  # to include double quotes
 chai =r"Masala\nChai"
 
 print("masala" in chai)
+
+for tea in tea_variesties:
+    print(tea,end="-")
+
+Black-green-masala-whites-
+
+tea_variesties =['black','green','masala','white']
+tea_variesties_copy=tea_variesties.copy()  # references alag krne ke liye
+
+squared_num=[x**2 for x in range(10)] # 0 1 4 9 16 25 36 49 64 81
+
+cube_num=[x**3 for x in range(10)]
