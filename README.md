@@ -83,3 +83,25 @@ false==0
 true is 1
 
 true +4
+
+#string
+chai="       masala chai    "
+
+chai.strip()
+chai.replace()
+chai ="lemon,ginger,masala,mint"
+chai.split(',')
+chai.count('chai')
+
+order="I ordered {} cups of {} chai "
+print(order.format(quantity,chai_type))
+
+
+print("".join (chai_vareity)) # list -> string
+
+chai="he said, \" chai is good\" "  # to include double quotes
+
+
+chai =r"Masala\nChai"
+
+print("masala" in chai)
