@@ -117,3 +117,6 @@ tea_variesties_copy=tea_variesties.copy()  # references alag krne ke liye
 squared_num=[x**2 for x in range(10)] # 0 1 4 9 16 25 36 49 64 81
 
 cube_num=[x**3 for x in range(10)]
+
+
+squared_num ={x:x**2 for x in range(6)}  # {0:0 ,1:1,2:4,3:9,4:16,5:25}
