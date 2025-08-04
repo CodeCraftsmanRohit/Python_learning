@@ -17,7 +17,6 @@ mutable vs immutable
 [] ,() ,{}
 
 
-
 In Python, tuples and lists are both used to store collections of items, but they have several key differences. Here's a clear comparison:
 
 🔑 Key Differences Between Tuple and List
